@@ -20,6 +20,8 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
+*   [Google](https://policies.google.com/privacy)
+
 
 **Log Data**
 
