@@ -21,6 +21,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [Google](https://policies.google.com/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 
 **Log Data**
