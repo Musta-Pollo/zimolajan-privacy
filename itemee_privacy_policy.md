@@ -1,168 +1,225 @@
 # Privacy Policy for Itemee
 
-**Last updated: December 20, 2024**
+**Last updated:** December 20, 2024
 
-Jan Zimola ("we," "us," or "our") built the Itemee app as a Freemium application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Itemee is developed and operated by **Jan Zimola** (“we”, “us”, or “our”).  
+This Privacy Policy explains how we collect, use, and protect your information when you use the Itemee mobile application (“Itemee” or “the app”).
 
-By using Itemee, you agree to the collection and use of information in accordance with this policy.
-
----
-
-## Information We Collect
-
-### Information You Provide
-
-When you create an account or use Itemee, we may collect:
-
-- **Email address** - Required for account creation, login, and password recovery
-- **Display name** - Optional, used to personalize your experience
-- **Inventory data** - Items, labels, categories, and organizations you create within the app
-
-### Information Collected Automatically
-
-When you use Itemee, we automatically collect:
-
-- **Device information** - Device type, operating system version, unique device identifiers
-- **IP address** - Collected during login for security purposes
-- **User agent** - Browser/app information for session management
-- **Usage data** - How you interact with the app (via Google Analytics)
-- **Crash reports** - App crashes and errors (via Firebase Crashlytics)
-- **Language/locale preferences** - To provide localized content
+By using Itemee, you agree to the practices described in this Privacy Policy.
 
 ---
 
-## How We Use Your Information
+## 1. Data Controller
 
-We use the information we collect to:
+The data controller responsible for the processing of your personal data is:
 
-- Provide, maintain, and improve Itemee
-- Create and manage your account
-- Sync your data across devices
-- Send transactional emails (verification codes, password resets)
-- Analyze app usage to improve features and performance
-- Identify and fix bugs and crashes
-- Deliver over-the-air updates and bug fixes
+**Jan Zimola**  
+Email: support@janzimola.com
 
 ---
 
-## Third-Party Services
+## 2. Overview of How Itemee Works
 
-Itemee uses the following third-party services that may collect information:
+Itemee can be used **without creating an account**.  
+If you choose to create an account, additional data is processed to enable cloud synchronization and account-related features.
 
-### Google Analytics for Firebase
-Collects anonymous usage data, app events, and device information to help us understand how users interact with the app.
-- [Google Analytics Privacy Policy](https://www.google.com/analytics/terms/us.html)
-
-### Firebase Crashlytics
-Collects crash reports, device state, and error logs to help us identify and fix app issues.
-- [Firebase Crashlytics Privacy Policy](https://firebase.google.com/support/privacy/)
-
-### ZeptoMail (by Zoho)
-Processes email addresses to send transactional emails (verification codes, password resets).
-- [Zoho Privacy Policy](https://www.zoho.com/privacy.html)
-
-### Shorebird
-Delivers over-the-air app updates. Collects anonymous device identifiers, device type, OS version, and IP address solely for update delivery.
-- [Shorebird Privacy Policy](https://shorebird.dev/privacy)
-
-### Backblaze B2
-Stores encrypted database backups. Your data is encrypted at rest.
-- [Backblaze Privacy Policy](https://www.backblaze.com/company/privacy.html)
-
-### PowerSync
-Provides data synchronization between your devices. This is self-hosted on our servers and does not share data with third parties.
+Certain optional features, such as usage analytics and crash reporting, are **disabled by default** and can be enabled by you at any time in the app’s settings.
 
 ---
 
-## Data Security
+## 3. Information We Collect
 
-We implement appropriate technical and organizational measures to protect your data:
+### 3.1 Information You Provide
 
-- All data is transmitted over HTTPS (encrypted in transit)
-- Database backups are encrypted at rest
-- Session-based authentication with secure token storage
-- Regular security updates and monitoring
+Depending on how you use Itemee, we may collect:
 
-However, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
+- **Email address** – only if you create an account; used for authentication, password recovery, and account-related communication  
+- **Display name** – optional; used to personalize your experience  
+- **Inventory data** – items, labels, categories, and organizations you create within the app  
+- **Payment-related metadata** – if you choose to make a purchase, limited transaction-related information (see Payments section)
 
----
-
-## Data Retention
-
-- **Active accounts**: Your data is retained as long as your account is active
-- **Deleted accounts**: Upon account deletion request, all associated data is permanently deleted within 30 days
-- **Crash logs and analytics**: Retained for up to 90 days for debugging purposes
+Itemee does **not** collect contacts, photos, precise location data, or advertising identifiers.
 
 ---
 
-## Your Rights
+### 3.2 Information Collected Automatically (Essential)
 
-You have the right to:
+When you use Itemee, we may collect limited technical information necessary for the secure operation of the app:
 
-- **Access** your personal data stored in the app
-- **Export** your data (contact us for assistance)
-- **Delete** your account and all associated data
-- **Withdraw consent** by deleting your account
+- Device type and operating system version  
+- App version  
+- IP address (used transiently for security and networking purposes)  
+- Language and locale preferences  
 
-To exercise these rights, contact us at support@janzimola.com.
-
----
-
-## Account Deletion
-
-To delete your account and all associated data:
-
-1. Open Itemee and go to **Settings**
-2. Tap **Delete Account** in the Account section
-3. Send the pre-filled email to request deletion
-4. We will process your request within 30 days
-
-Alternatively, email us directly at support@janzimola.com with the subject "Account Deletion Request."
-
-Upon deletion, the following data will be permanently removed:
-- Your account information (email, name)
-- All items, labels, and categories you created
-- All organizations you own (if you are the sole owner)
-- Session and login history
+This data is used strictly for functionality, security, and service delivery.
 
 ---
 
-## Children's Privacy
+### 3.3 Optional Diagnostics Data (Opt-In Only)
 
-Itemee is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. Users must confirm they are 13 years of age or older during registration.
+Itemee offers optional diagnostics features that are **disabled by default**:
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us at support@janzimola.com. We will promptly delete such information from our servers.
+- **Usage analytics** (Firebase Analytics)  
+- **Crash reporting** (Firebase Crashlytics)
 
----
+These features are only activated if you explicitly enable them in **Settings → Privacy**.  
+You can disable them again at any time.
 
-## Over-the-Air Updates
+When enabled, diagnostics data may include:
+- App interaction events
+- Device and OS information
+- Crash stack traces and error diagnostics
 
-Itemee uses Shorebird to deliver bug fixes and improvements without requiring a full app store update. When checking for updates, the following anonymous data may be collected:
-
-- Device type and operating system version
-- Anonymous device identifier
-- IP address
-
-This data is used solely to deliver app updates and is not used for advertising, profiling, or sold to third parties.
-
----
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes are effective immediately upon posting.
+This data is never used for advertising or profiling.
 
 ---
 
-## Contact Us
+## 4. How We Use Your Information
 
-If you have any questions about this Privacy Policy, please contact us:
+We use your information to:
 
-**Email:** support@janzimola.com
-
-**Developer:** Jan Zimola
+- Provide and operate Itemee
+- Store and sync your inventory data across devices (if you use an account)
+- Maintain security and prevent abuse
+- Process payments (if applicable)
+- Improve app stability and performance (only if diagnostics are enabled)
+- Send transactional emails such as verification or password reset emails
 
 ---
 
-*This privacy policy is effective as of December 20, 2024.*
+## 5. Legal Bases for Processing (GDPR)
+
+We process personal data under the following legal bases:
+
+- **Performance of a contract** – to provide app functionality, account services, and data synchronization  
+- **Legitimate interests** – to ensure security, prevent abuse, and maintain service reliability  
+- **Consent** – for optional analytics and crash reporting features  
+- **Legal obligation** – where processing is required by law (e.g., accounting or tax records)
+
+You may withdraw your consent at any time via the app settings.
+
+---
+
+## 6. Payments
+
+If you choose to make a payment, payments are processed securely by **Stripe**.
+
+Itemee does **not** store or process your full payment card details.  
+Payment information is transmitted directly to Stripe and handled according to their security and compliance standards (including PCI DSS).
+
+Stripe may process:
+- Payment amount
+- Transaction identifiers
+- Payment method metadata
+
+Stripe acts as an independent data controller for payment processing.
+
+Stripe Privacy Policy: https://stripe.com/privacy
+
+---
+
+## 7. Third-Party Services and Data Processors
+
+Itemee uses the following third-party services:
+
+- **Google Firebase Analytics** – optional usage analytics (opt-in only)  
+- **Firebase Crashlytics** – optional crash diagnostics (opt-in only)  
+- **ZeptoMail (Zoho)** – transactional email delivery  
+- **Shorebird** – over-the-air app updates  
+- **Backblaze B2** – encrypted database backups  
+- **Hetzner Online GmbH** – server infrastructure hosting (EU)  
+
+All third-party processors are bound by data protection agreements where required.
+
+---
+
+## 8. Hosting and Data Location
+
+Itemee is self-hosted using **Coolify** on servers provided by **Hetzner Online GmbH**, located in the **European Union (Germany)**.
+
+Your data is processed and stored within the EU.
+
+---
+
+## 9. Data Security
+
+We implement appropriate technical and organizational measures to protect your data, including:
+
+- Encrypted connections (HTTPS)
+- Encrypted backups at rest
+- Secure authentication tokens
+- Regular updates and monitoring
+
+No system can be guaranteed 100% secure, but we continuously work to protect your information.
+
+---
+
+## 10. Data Retention
+
+- **Active accounts:** Data is retained while your account remains active  
+- **Deleted accounts:** All associated data is permanently deleted within **30 days** of deletion request  
+- **Diagnostics data:** Retained for up to **90 days**, then automatically deleted or anonymized  
+
+---
+
+## 11. Your Rights
+
+Under GDPR, you have the right to:
+
+- Access your personal data  
+- Correct inaccurate data  
+- Request deletion of your data  
+- Export your data  
+- Withdraw consent for optional processing  
+- Lodge a complaint with your local data protection authority  
+
+To exercise your rights, contact us at **support@janzimola.com**.
+
+---
+
+## 12. Account Deletion
+
+You can delete your account and all associated data at any time:
+
+1. Open Itemee  
+2. Go to **Settings → Account → Delete Account**  
+3. Send the pre-filled deletion request email  
+
+Alternatively, email **support@janzimola.com** with the subject “Account Deletion Request”.
+
+### Shared Organizations and Collaborative Data
+
+Itemee allows users to create and participate in shared organizations to collaborate with other users.
+
+If you request account deletion, the following rules apply:
+
+- **Personal data** associated with your account (such as your email address, profile information, and session data) will be permanently deleted.
+- **Organizations you own** will be deleted if you are the sole owner. If an organization has multiple owners, your ownership role will be removed.
+- **Organizations where you are a member but not the owner** will not be deleted. You will be removed from those organizations.
+- **Shared content** within organizations (such as items or categories) may remain accessible to other members. Any association with your personal identity will be removed or anonymized where applicable.
+
+---
+
+## 13. Children’s Privacy
+
+Itemee is not intended for children under the age of 13.  
+We do not knowingly collect personal data from children.
+
+If you believe a child has provided personal data, please contact us and we will promptly delete it.
+
+---
+
+## 14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.  
+Changes are effective upon posting, and the “Last updated” date will be revised.
+
+---
+
+## 15. Contact
+
+If you have any questions about this Privacy Policy, contact us at:
+
+**support@janzimola.com**
+
+Developer: **Jan Zimola**
