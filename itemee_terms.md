@@ -1,12 +1,10 @@
 # Terms of Service for Itemee
 
-**Last updated: December 20, 2024**
+**Last updated:** December 20, 2024
 
 Please read these Terms of Service ("Terms") carefully before using the Itemee mobile application ("App") operated by Jan Zimola ("we," "us," or "our").
 
 By accessing or using the App, you agree to be bound by these Terms. If you do not agree, you may not use the App.
-
----
 
 ## 1. Acceptance of Terms
 
@@ -15,8 +13,6 @@ By using Itemee, you confirm that:
 - You meet the minimum age required by applicable law (at least 13 years old)
 - You have the legal capacity to enter into these Terms
 - You will comply with all applicable laws and regulations
-
----
 
 ## 2. Description of Service
 
@@ -30,13 +26,12 @@ Itemee is an inventory management application that allows users to:
 
 The App is offered on a freemium basis. Some features may require payment.
 
----
-
 ## 3. User Accounts
 
 ### 3.1 Account Creation
 
 Certain features require an account. You may be asked to provide:
+
 - A valid email address
 - A secure password
 
@@ -45,6 +40,7 @@ You are responsible for all activity under your account.
 ### 3.2 Account Security
 
 You agree to:
+
 - Provide accurate information
 - Keep your login credentials secure
 - Notify us of unauthorized access
@@ -56,8 +52,6 @@ You may delete your account at any time through the App or by contacting support
 
 We may suspend or terminate accounts that violate these Terms.
 
----
-
 ## 4. Acceptable Use
 
 You agree not to use Itemee to:
@@ -65,11 +59,9 @@ You agree not to use Itemee to:
 - Violate any laws or regulations
 - Upload malicious or harmful content
 - Attempt unauthorized access
-- Interfere with the App’s operation
+- Interfere with the App's operation
 - Impersonate others or misrepresent identity
 - Harvest data from other users without consent
-
----
 
 ## 5. User Content and Organizations
 
@@ -81,16 +73,15 @@ You retain ownership of the content you create. You grant us a limited license t
 
 Itemee allows collaborative organizations with multiple users.
 
-- If you **own** an organization, you are responsible for its content and members.
-- If you are a **member**, you do not own the organization or its shared data.
+- If you own an organization, you are responsible for its content and members.
+- If you are a member, you do not own the organization or its shared data.
 
 If your account is deleted:
+
 - Organizations you solely own may be deleted
 - You will be removed from organizations you do not own
 - Shared data may remain accessible to other members
 - Any personal identifiers associated with you may be removed or anonymized
-
----
 
 ## 6. Payments and Subscriptions
 
@@ -103,26 +94,33 @@ Some features may require payment.
 
 If you purchase through Apple App Store or Google Play, their billing terms apply.
 
----
-
 ## 7. Third-Party Services
 
 Itemee integrates with third-party services (such as analytics, crash reporting, and payment providers).
 
 Your use of those services is subject to their respective terms and privacy policies. We are not responsible for third-party practices.
 
----
-
 ## 8. Disclaimers
 
-The App is provided **“AS IS”** and **“AS AVAILABLE”** without warranties of any kind.
+The App is provided "AS IS" and "AS AVAILABLE" without warranties of any kind.
 
 We do not guarantee that:
+
 - The App will be uninterrupted or error-free
 - Data will always be available or preserved
 - Errors or defects will be corrected
 
----
+### 8.1 Data Backups and Preservation
+
+We perform regular automated backups of user data as part of our best-effort service operations. However, we do not guarantee that:
+
+- Backups will always be successful or complete
+- Data can be recovered in all circumstances
+- Backups will be retained indefinitely
+
+**YOU ARE STRONGLY ENCOURAGED TO EXPORT AND MAINTAIN YOUR OWN BACKUPS OF IMPORTANT INVENTORY DATA.**
+
+We are not responsible for data loss due to technical failures, security incidents, service interruptions, or any other cause. Our backup systems are provided as a convenience and do not constitute a guaranteed backup service.
 
 ## 9. Limitation of Liability
 
@@ -130,16 +128,13 @@ To the maximum extent permitted by law, we are not liable for indirect, incident
 
 Our total liability shall not exceed the amount you paid us (if any) in the 12 months preceding the claim.
 
----
-
 ## 10. Indemnification
 
 You agree to indemnify and hold us harmless from claims arising from:
+
 - Your use of the App
 - Your violation of these Terms
 - Your violation of third-party rights
-
----
 
 ## 11. Modifications
 
@@ -147,25 +142,17 @@ We may modify the App or these Terms at any time. Updates will be communicated v
 
 Continued use after changes means acceptance.
 
----
-
 ## 12. Governing Law
 
 These Terms are governed by the laws of the Czech Republic.
-
----
 
 ## 13. Severability
 
 If any provision is unenforceable, the remaining provisions remain in effect.
 
----
-
 ## 14. Entire Agreement
 
 These Terms and the Privacy Policy constitute the entire agreement between you and us.
-
----
 
 ## 15. Contact
 
