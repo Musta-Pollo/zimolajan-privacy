@@ -38,11 +38,20 @@ Depending on how you use Itemee, we may collect:
 - **Inventory data** – items, labels, categories, and organizations you create within the app  
 - **Payment-related metadata** – if you choose to make a purchase, limited transaction-related information (see Payments section)
 
+### 3.2 Camera Access
+
+Itemee requests camera access for **QR code and barcode scanning** to quickly identify and look up inventory items.
+
+- **Purpose:** Scanning QR codes and barcodes printed on items or labels
+- **Processing:** All camera data is processed entirely on your device
+- **Storage:** No images or video are stored, transmitted, or shared
+- **Control:** Camera access is optional. You can deny permission and manually enter item codes instead
+
 Itemee does **not** collect contacts, photos, precise location data, or advertising identifiers.
 
 ---
 
-### 3.2 Information Collected Automatically (Essential)
+### 3.3 Information Collected Automatically (Essential)
 
 When you use Itemee, we may collect limited technical information necessary for the secure operation of the app:
 
@@ -55,7 +64,7 @@ This data is used strictly for functionality, security, and service delivery.
 
 ---
 
-### 3.3 Optional Diagnostics Data (Opt-In Only)
+### 3.4 Optional Diagnostics Data (Opt-In Only)
 
 Itemee offers optional diagnostics features that are **disabled by default**:
 
